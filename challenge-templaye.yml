@@ -2,11 +2,11 @@
 # other tools to install and deploy your challenge.
 
 # Required sections
-name: "Web_back_Level_1"
+name: "Web_back_Level_3"
 author: "Mathieu"
-category: web_back
-description: Level_one
-value: 10
+category: "Web_back"
+description: A form that let you send file to the server
+value: 200
 type: standard
 
 # The extra field provides additional fields for data during the install/sync commands/
